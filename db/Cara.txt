@@ -1,0 +1,3 @@
+1.install xammp 
+2.Restore database db_aplicares
+3.login : 0227R005 password: divre-ix
